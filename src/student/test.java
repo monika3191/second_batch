@@ -32,6 +32,10 @@ public class test {
 		System.out.println("Original String " + str1);
 		String str2 = "feeksforfeeks".replace('f','g');
 		System.out.println("Replace f with g ->" + str2);
+		System.out.println("This is an updated line");
+		System.out.println("This is an updated line");
+		System.out.println("This is an updated line");
+		
 	}
 
 }
