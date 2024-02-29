@@ -1,11 +1,15 @@
 Alphabets
-a
-c
-b
-d
 
+z
+x
+y
+
+u
+v
 Numbers:
-1
-2
-3
+
+4
+101
+102
+205
 
